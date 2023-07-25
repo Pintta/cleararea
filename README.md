@@ -1,2 +1,2 @@
 # cleararea
-Clear the cars from the area FiveM Script
+Clear the npc vehicles and peds from the area FiveM Script
